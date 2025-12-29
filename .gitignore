@@ -1,0 +1,9 @@
+*.exe
+*.obj
+*.pdb
+*.dll
+*.lib
+*.zip
+*.iso
+x64/
+.vs/
